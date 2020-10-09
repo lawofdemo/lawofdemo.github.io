@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lawofdemo.github.io/sitemap.xml.gz
